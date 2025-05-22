@@ -1,1 +1,1 @@
-pip install requests beautifulsoup4 telethon aiohttp fake-useragent tqdm termcolor
+pip install psutil requests pyscreenshot opencv-python sounddevice scipy ipwhois
